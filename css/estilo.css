@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to bottom, #8B0000, #B22222, #FF0000);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Preencher a altura da janela de visualização */
+}
