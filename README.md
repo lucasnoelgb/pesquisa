@@ -112,3 +112,9 @@ O Clipping Path em JavaScript permite recortar elementos de uma imagem ou de um 
    
 
 Isso é uma explicação simplificada de como o Clipping Path funciona em JavaScript. Você pode personalizar o caminho de recorte de acordo com suas necessidades para criar efeitos de recorte específicos em imagens ou elementos HTML.
+
+
+
+# DIAGRAMA 
+
+![Diagrama de transformações drawio (1)](https://github.com/lucasnoelgb/pesquisa/assets/129121307/cd135d61-6c64-45a6-addb-d1ef1d8b9de1)
